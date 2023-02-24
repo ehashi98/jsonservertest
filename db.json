@@ -11,6 +11,18 @@
          "justification":"N/A",
          "sopoNum":"0",
          "deviceStatus": "Active"
+      },
+      {
+         "id":2,
+         "deviceType":"Wave",
+         "imei":"1112",
+         "deviceID":"5555",
+         "sms":55555555505,
+         "customerAccount":"tester",
+         "customerAdmin":"testerAdmin",
+         "justification":"N/A",
+         "sopoNum":"0",
+         "deviceStatus": "Active"
       }
    ]
 }
