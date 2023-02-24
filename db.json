@@ -1,34 +1,32 @@
 {
-  "device": [
-    {
-      "id": 1,
-      "deviceType": "NORTAC ORION",
-      "imei": "1111",
-      "deviceID": "5555",
-      "sms": 5555555555,
-      "customerAccount":"tester",
-      "customerAdmin": "testerAdmin",
-      "justification": "N/A",
-      "sopoNum": "0",
-      "deviceStatus": {
-        "id": 2
+   "device":[
+      {
+         "id":1,
+         "deviceType":"NORTAC ORION",
+         "imei":"1111",
+         "deviceID":"5555",
+         "sms":5555555555,
+         "customerAccount":"tester",
+         "customerAdmin":"testerAdmin",
+         "justification":"N/A",
+         "sopoNum":"0",
+         "deviceStatus":{
+            "id":2
+         }
       }
-    }
-  ]
-},
-{
-  "deviceStatus": [
-    {
-      "id": 1,
-      "status": "Active"
-    },
-    {
-       "id": 2,
-      "status": "Removed"
-    },
-    {
-       "id": 3,
-      "status": "Active awaiting SO/PO"
-    }
-  ]
+   ],
+   "deviceStatus":[
+      {
+         "id":1,
+         "status":"Active"
+      },
+      {
+         "id":2,
+         "status":"Removed"
+      },
+      {
+         "id":3,
+         "status":"Active awaiting SO/PO"
+      }
+   ]
 }
