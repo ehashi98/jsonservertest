@@ -2,19 +2,19 @@
   "device": [
     {
       "id": 1,
-      "deviceType": "Id cum ipsum ut iusto excepturi perferendis quo.",
-      "imei": "qui-tenetur-repellendus",
-      "deviceID": "Officia rerum quod corrupti iusto veniam placeat. Ipsam consequuntur vel officia excepturi et. Accusamus at exercitationem eos asperiores ut et. Debitis sapiente iusto quia. Consequuntur aut autem est omnis minus eius. Ut perspiciatis possimus minus et ut minus. Consequuntur nihil est qui voluptatem facere. Aut in in neque eos est iusto est. Enim nesciunt saepe fugit. Voluptates ducimus maxime nam aut illo quaerat.",
-      "sms": 131656,
+      "deviceType": "NORTAC ORION",
+      "imei": "1111",
+      "deviceID": "5555",
+      "sms": 5555555555,
       "customerAccount": {
         "id": 24
       },
       "customerAdmin": {
         "id": 45
       },
-      "justification": "rejected",
-      "sopoNum": "red",
-      "deviceStatus": "2021-06-06T07:37:51.314Z"
+      "justification": "N/A",
+      "sopoNum": "0",
+      "deviceStatus": "Active"
     }
   ]
 }
