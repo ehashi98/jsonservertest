@@ -2,7 +2,9 @@
    "device":[
       {
          "id":1,
-         "type_id":1,
+         "type_id": {
+            "id":1
+         },
          "imei":"11223344",
          "device_id":1122334455,
          "sms":null,
@@ -13,7 +15,9 @@
       },
       {
          "id":2,
-         "type_id":7,
+         "type_id": {
+            "id":7
+         },
          "imei":"1234567",
          "device_id":12345678,
          "sms":6135555555,
