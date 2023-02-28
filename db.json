@@ -22,5 +22,39 @@
          "so_po_number":111,
          "status_id":1
       }
+   ],
+   "device_type":[
+      {
+         "id":1,
+         "name":"Android"
+      },
+      {
+         "id":2,
+         "name":"iPhone"
+      },
+      {
+         "id":3,
+         "name":"Windows"
+      },
+      {
+         "id":4,
+         "name":"Whisper"
+      },
+      {
+         "id":5,
+         "name":"Wave"
+      },
+      {
+         "id":6,
+         "name":"Echo"
+      },
+      {
+         "id":7,
+         "name":"NORTAC Orion"
+      },
+      {
+         "id":8,
+         "name":"Hawkeye 5500"
+      }
    ]
 }
