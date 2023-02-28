@@ -8,10 +8,14 @@
          "imei":"11223344",
          "device_id":1122334455,
          "sms":null,
-         "client_id":2,
+         "client":{
+            "id":2
+         },
          "change_justification":"this is a test",
          "so_po_number":null,
-         "status_id":1
+         "status":{
+            "id":2
+         }
       },
       {
          "id":2,
@@ -21,10 +25,14 @@
          "imei":"1234567",
          "device_id":12345678,
          "sms":6135555555,
-         "client_id":1,
+         "client":{
+            "id":1
+         },         
          "change_justification":"this is a second test",
          "so_po_number":111,
-         "status_id":1
+         "status":{
+            "id":1
+         }
       }
    ],
    "device_type":[
