@@ -5,7 +5,7 @@
          "device_type": {
             "id":1
          },
-         "imei":"11223344",
+         "imei":"112233445566778",
          "device_id":1122334455,
          "sms":null,
          "client":{
@@ -22,7 +22,7 @@
          "device_type": {
             "id":7
          },
-         "imei":"1234567",
+         "imei":"123456789112345",
          "device_id":12345678,
          "sms":6135555555,
          "client":{
